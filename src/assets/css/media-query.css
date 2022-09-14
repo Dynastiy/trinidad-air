@@ -1,0 +1,34 @@
+    @media (max-width: 990px) {
+        .container-fluid {
+            padding-left: 1.5rem !important;
+            padding-right: 1.5rem !important;
+        }
+        .about--us,
+        .what-we-do_options,
+        .what-we-do_options .right {
+            grid-template-columns: auto;
+        }
+        .what-we-do_options .left {
+            height: 300px;
+        }
+        .carousel-inner img {
+            height: 400px;
+            object-fit: cover;
+            object-position: top;
+        }
+        .hero--carousel {
+            background: rgba(0, 0, 0, 0.6);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 400px;
+            z-index: 10;
+        }
+        .mobile--nav {
+            display: block;
+        }
+        .app--nav {
+            display: none;
+        }
+    }
