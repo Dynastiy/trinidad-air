@@ -82,7 +82,7 @@ button span {
 
 .what-we-do_options {
     display: grid;
-    grid-template-columns: 50% auto;
+    grid-template-columns: auto 50%;
     gap: 30px;
 }
 
@@ -97,7 +97,7 @@ button span {
 
 .what-we-do_options .right {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr;
     gap: 30px;
 }
 
@@ -108,6 +108,7 @@ button span {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 .book--now {

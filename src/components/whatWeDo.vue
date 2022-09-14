@@ -11,13 +11,12 @@
 
         <div class="what-we-do_options mt-5">
           <div class="left"></div>
-          <div class="right">
+          <div class="right row">
             <div class="what-we-do-card">
                 <img class="mb-2" src="@/assets/img/comfort.svg" width="60px" alt="">
               <h2 class="mb-3" style="font-weight:700">LUXURY AND COMFORT</h2>
               <p style="font-size: 14px; line-height: 25px">
-                Lorem, ipsum dolor sit amet consectetur adipisiciAsperiores odio
-                reiciendis amet vero praesentium dolor.
+                Ever since 1973, our mission has been to become the definitive international private jet charter specialists. We’re proud of our reputation for innovation, expertise and attention to detail. With 29,000 group charter flights each year, here’s why you should book a private jet with us:
               </p>
             </div>
             
@@ -25,8 +24,7 @@
                 <img class="mb-2" src="@/assets/img/safety.svg" width="60px" alt="">
               <h2 class="mb-3" style="font-weight:700">SAFETY AND CONFIDENTIALITY</h2>
               <p style="font-size: 14px; line-height: 25px">
-                Lorem, ipsum dolor sit amet consectetur adipisiciAsperiores odio
-                reiciendis amet vero praesentium dolor.
+                We are accredited by a number of leading aviation sector organisations – underlining our commitment to maintaining the highest of standard.
               </p>
             </div>
 
@@ -34,8 +32,7 @@
                 <img class="mb-2" src="@/assets/img/schedule.svg" width="60px" alt="">
               <h2 class="mb-3" style="font-weight:700">PERSONAL SCHEDULE</h2>
               <p style="font-size: 14px; line-height: 25px">
-                Lorem, ipsum dolor sit amet consectetur adipisiciAsperiores odio
-                reiciendis amet vero praesentium dolor.
+                Private jet charters are the bedrock of our business – supporting clients for half a century and covering nine million air miles in the process.
               </p>
             </div>
 
@@ -43,8 +40,7 @@
                 <img class="mb-2" src="@/assets/img/airport.svg" width="60px" alt="">
               <h2 class="mb-3" style="font-weight:700">MANY AIRPORTS</h2>
               <p style="font-size: 14px; line-height: 25px">
-                Lorem, ipsum dolor sit amet consectetur adipisiciAsperiores odio
-                reiciendis amet vero praesentium dolor.
+                With our substantial aircraft database and access to real-time global availability, we can source the luxury private jets that suit your requirements.
               </p>
             </div>
           </div>
