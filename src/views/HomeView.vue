@@ -8,6 +8,7 @@
         <OurNumbers class="my-5"/>
         <BookNow/>
         <SpecialOffer class="my-5"/>
+        <PhotoGallery/>
         <AppFooter/>
       </div>
     </div>
@@ -22,7 +23,8 @@ import OurNumbers from '@/components/ourNumbers.vue';
 import BookNow from '@/components/bookNow.vue';
 import SpecialOffer from '@/components/specialOffer.vue';
 import AppFooter from '@/components/appFooter.vue';
+import PhotoGallery from '@/components/photoGallery.vue';
 export default {
-    components: { AppHeader, AboutUs, WhatWeDo, OurNumbers, BookNow, SpecialOffer, AppFooter }
+    components: { AppHeader, AboutUs, WhatWeDo, OurNumbers, BookNow, SpecialOffer, AppFooter, PhotoGallery }
 }
 </script>

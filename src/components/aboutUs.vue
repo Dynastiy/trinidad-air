@@ -18,7 +18,7 @@ Looking for private jet hire? Our specialist team is on hand to listen to your r
                         <!-- <a href="tel:08114193837"><h4 style="font-weight:700; color: var(--primary-color);">08114193837 </h4> </a> -->
                     </div>
                     <div>
-                       <a href="mailto:booking@trinidadair.com"> <button class="d-flex align-items-center" style="gap:10px"><span>BOOK NOW</span> <i class="el-icon-right" style="font-size: 20px"></i> </button> </a>
+                       <a href="https://booking.trinidadair.com"> <button class="d-flex align-items-center" style="gap:10px"><span>BOOK NOW</span> <i class="el-icon-right" style="font-size: 20px"></i> </button> </a>
                     </div>
                 </div>
             </div>
