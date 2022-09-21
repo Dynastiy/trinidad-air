@@ -68,11 +68,12 @@ button span {
 }
 
 .about--us .right {
-    background-image: url('../img/about-us.jpeg');
+    background-image: url('../img/about-bg.jpg');
     width: 100%;
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     border-radius: 10px;
 }
 
@@ -87,7 +88,7 @@ button span {
 }
 
 .what-we-do_options .left {
-    background-image: url("../img/discover.jpeg");
+    background-image: url("../img/11.jpg");
     width: 100%;
     height: 500px;
     background-repeat: no-repeat;
@@ -96,9 +97,9 @@ button span {
 }
 
 .what-we-do_options .right {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 30px;
+    /* display: grid; */
+    /* grid-template-columns: 1fr 1fr; */
+    /* gap: 30px; */
 }
 
 .what-we-do-card {
@@ -109,6 +110,8 @@ button span {
     flex-direction: column;
     align-items: center;
     width: 100%;
+    height: 242px;
+    overflow-y: auto;
 }
 
 .book--now {

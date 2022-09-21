@@ -31,4 +31,8 @@
         .app--nav {
             display: none;
         }
+        .what-we-do-card {
+            height: unset;
+            overflow-y: auto;
+        }
     }

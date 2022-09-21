@@ -8,19 +8,23 @@
         <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active" data-interval="5000">
-                <img src="@/assets/img/1.jpeg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
+                <img src="@/assets/img/11.jpg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
                 </div>
 
                 <div class="carousel-item" data-interval="5000">
-                <img src="@/assets/img/2.jpeg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
+                <img src="@/assets/img/12.jpg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
                 </div>
 
                 <div class="carousel-item" data-interval="5000">
-                <img src="@/assets/img/3.jpeg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
+                <img src="@/assets/img/13.jpg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
                 </div>
 
                 <div class="carousel-item" data-interval="5000">
-                <img src="@/assets/img/4.jpeg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
+                <img src="@/assets/img/14.jpg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
+                </div>
+
+                <div class="carousel-item" data-interval="5000">
+                <img src="@/assets/img/15.jpg" class="d-block w-100 animate__animated animate__zoomIn" alt="...">
                 </div>
                
             </div>
